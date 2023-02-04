@@ -1,1 +1,1 @@
-# ** SMS Spam CLassifier **
+# **SMS Spam CLassifier**
